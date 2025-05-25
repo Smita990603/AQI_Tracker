@@ -1,0 +1,53 @@
+2025-03-26 17:04:05,845 - INFO - Data fetched successfully
+2025-03-27 13:38:42,202 - INFO - Data fetched successfully
+2025-03-27 13:39:37,382 - INFO - Data fetched successfully
+2025-03-27 13:39:37,382 - ERROR - name 'records' is not defined
+2025-03-27 13:44:12,299 - INFO - Data fetched successfully
+2025-03-27 13:45:39,055 - INFO - Data fetched successfully
+2025-03-27 13:46:34,656 - INFO - Data fetched successfully
+2025-03-27 13:47:13,577 - INFO - Data fetched successfully
+2025-03-27 13:49:11,329 - INFO - Data fetched successfully
+2025-03-27 13:49:45,427 - INFO - Data fetched successfully
+2025-03-27 13:50:39,186 - INFO - Data fetched successfully
+2025-03-27 13:51:53,323 - INFO - Data fetched successfully
+2025-03-27 13:51:53,358 - ERROR - unsupported operand type(s) for +=: 'int' and 'str'
+2025-03-27 13:52:11,039 - INFO - Data fetched successfully
+2025-03-27 13:52:11,040 - ERROR - unsupported operand type(s) for +=: 'int' and 'str'
+2025-03-27 13:52:34,079 - INFO - Data fetched successfully
+2025-03-27 13:52:34,079 - ERROR - unsupported operand type(s) for +=: 'int' and 'str'
+2025-03-27 13:52:43,269 - INFO - Data fetched successfully
+2025-03-27 13:52:43,269 - ERROR - unsupported operand type(s) for +=: 'int' and 'str'
+2025-03-27 13:52:53,411 - INFO - Data fetched successfully
+2025-03-27 13:52:53,412 - ERROR - unsupported operand type(s) for +=: 'int' and 'str'
+2025-03-27 13:53:33,645 - INFO - Data fetched successfully
+2025-03-27 13:53:33,692 - ERROR - cannot access local variable 'total' where it is not associated with a value
+2025-03-27 13:54:24,312 - INFO - Data fetched successfully
+2025-03-27 13:54:24,313 - ERROR - cannot access local variable 'total' where it is not associated with a value
+2025-03-27 13:56:34,624 - INFO - Data fetched successfully
+2025-03-27 13:56:46,904 - INFO - Data fetched successfully
+2025-03-27 13:57:52,163 - INFO - Data fetched successfully
+2025-03-27 14:02:20,214 - INFO - Data fetched successfully
+2025-03-27 17:22:48,005 - INFO - Data fetched successfully
+2025-03-27 17:23:16,131 - INFO - Data fetched successfully
+2025-03-27 17:24:02,429 - INFO - Data fetched successfully
+2025-03-27 17:25:35,757 - ERROR - Failed to retrieve API data.
+2025-03-27 17:26:17,209 - INFO - Data fetched successfully
+2025-03-27 17:26:39,423 - INFO - Data fetched successfully
+2025-03-27 17:29:05,450 - INFO - Data fetched successfully
+2025-03-27 17:31:03,244 - ERROR - Failed to retrieve API data.
+2025-03-27 17:31:23,619 - ERROR - Failed to retrieve API data.
+2025-03-27 18:06:45,411 - ERROR - request.send_message() missing 1 required positional argument: 'data_dict'
+2025-03-27 18:10:24,949 - ERROR - get() takes from 1 to 2 positional arguments but 3 were given
+2025-03-27 18:13:15,020 - ERROR - get() takes from 1 to 2 positional arguments but 3 were given
+2025-03-27 18:17:47,247 - INFO - AQI Data fetched successfully
+2025-04-02 23:25:23,998 - INFO - AQI Data fetched successfully
+2025-04-02 23:41:05,159 - INFO - AQI Data fetched successfully
+2025-04-02 23:41:08,476 - INFO - AQI Data fetched successfully
+2025-04-02 23:43:20,449 - INFO - AQI Data fetched successfully
+2025-04-02 23:43:23,137 - INFO - AQI Data fetched successfully
+2025-04-02 23:44:22,778 - INFO - AQI Data fetched successfully
+2025-04-02 23:44:27,999 - INFO - AQI Data fetched successfully
+2025-04-02 23:48:17,560 - INFO - AQI Data fetched successfully
+2025-04-02 23:48:17,570 - INFO - AQI Data fetched successfully
+2025-04-02 23:49:53,329 - INFO - AQI Data fetched successfully
+2025-04-02 23:50:13,317 - INFO - AQI Data fetched successfully
